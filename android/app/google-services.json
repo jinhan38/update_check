@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359429635326",
+    "project_id": "update-check-c616c",
+    "storage_bucket": "update-check-c616c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359429635326:android:a59a447549523a31b3b9af",
+        "android_client_info": {
+          "package_name": "com.example.update_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359429635326-ojeprt5s7ti2veh2bnn3rmcfr44np727.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRRfQE3Nj69sckhIA-ezmfWGk6LGfVVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359429635326-ojeprt5s7ti2veh2bnn3rmcfr44np727.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
